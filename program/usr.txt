@@ -1,0 +1,4 @@
+momo | 12345 | d
+labib | 54321 | d
+ali | 21345 | c
+youssef | 987654321 | c
